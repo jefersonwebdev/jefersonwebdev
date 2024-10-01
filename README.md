@@ -4,6 +4,7 @@
 - 🎂Idade: 35 anos
 - 📍Local: Santos - SP
 - ⭐Experiencia: Iniciante
+- 👨‍🎓Cursando: 1º Semestre - ADS
 
 ## Sobre
 Sempre gostei de programação, estou estudando desenvolvimento web nas horas vagas e pretendo migrar para a carreira de TI.
